@@ -5,6 +5,10 @@ In this kernel I am performing an exploratory data analysis of plot summary desc
 
 The dataset iteslf can be found on this link: [*Wikipedia Movie Plots* dataset](https://www.kaggle.com/jrobischon/wikipedia-movie-plots).
 
+The link to my Kaggle notebook of this project is [here](https://www.kaggle.com/tatianasnwrt/wikipedia-movie-plots-eda?scriptVersionId=31690832).
+
+This is the [link](https://www.kaggle.com/tatianasnwrt/flags-pics2) to my very small *Flapics* dataset used for word clouds in the project.
+
 ### Dataset content
 The dataset contains descriptions of 34,886 movies from around the world. Column descriptions are listed below:
 
