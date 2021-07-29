@@ -1,5 +1,5 @@
-## Wikipedia-Movie-Plots-EDA
-Exploratory data analysis based on the Wikipedia Movie Plots dataset
+# Wikipedia-Movie-Plots-EDA
+## Exploratory data analysis based on the Wikipedia Movie Plots dataset
 
 In this kernel I am performing an exploratory data analysis of plot summary descriptions scraped from Wikipedia.
 
