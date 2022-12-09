@@ -15,7 +15,7 @@ The dataset contains descriptions of 34,886 movies from around the world. Column
 Release Year - Year in which the movie was released
 Title - Movie title
 Origin/Ethnicity - Origin of movie (i.e. American, Bollywood, Tamil, etc.)
-Director - Director(s)
+Director - Director
 Plot - Main actor and actresses
 Genre - Movie Genre(s)
 Wiki Page - URL of the Wikipedia page from which the plot description was scraped
